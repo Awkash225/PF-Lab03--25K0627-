@@ -21,4 +21,4 @@ Welcome to my repository! This project is for practicing Git and GitHub.
 <br>
 ### Bold + Etalic Statement
 <br>
-***This project is very important for my learning journey.***
+This project is ***very important*** for my learning journey.
